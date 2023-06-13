@@ -1,8 +1,5 @@
-1. streamlit
-2. pandas
-3. numpy
-4. matplotlib
-5. scipy
-
-
-
+streamlit
+pandas
+numpy
+matplotlib
+scipy
